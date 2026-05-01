@@ -8,7 +8,7 @@ This Streamlit app recommends the latest movies by genre and also lets users sea
 - Clean, beginner-friendly UI made with Python + Streamlit
 
 ## 🚀 Live App
-👉 Link will be added after deployment
+👉 https://movie-recommender-priya-qewhtxvdtdujtnhukxg2ek.streamlit.app/
 
 ## 🛠️ Technologies Used
 - Python
